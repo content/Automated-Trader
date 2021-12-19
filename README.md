@@ -1,0 +1,2 @@
+# Automated-Trader
+Crypto trader
